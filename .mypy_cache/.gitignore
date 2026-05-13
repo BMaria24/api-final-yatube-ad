@@ -1,0 +1,4 @@
+# Automatically created by mypy
+venv/
+__pycache__/
+*.pyc
